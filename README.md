@@ -14,3 +14,9 @@ cd teamspeak
 ```shell
 make upgrade
 ```
+
+## more commands
+
+```shell
+make
+```

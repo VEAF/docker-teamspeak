@@ -1,0 +1,7 @@
+# common data directories
+/data
+# common IDE
+/.idea
+# custom config
+/.env
+
