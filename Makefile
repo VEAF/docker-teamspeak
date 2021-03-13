@@ -34,7 +34,7 @@ start: autoconfig
 
 ## Stop all services
 stop:
-	docker-compose stop$
+	docker-compose stop
 
 ## Check stack status
 ps:
